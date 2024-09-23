@@ -1,0 +1,12 @@
+{
+  "name": "Plugin-Template",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "Source": {
+        "$path": "src",
+        "$className": "StyleSheet"
+      }
+    }
+  }
+}
